@@ -1,0 +1,23 @@
+{
+  "name": "goit-js-hw-08-gallery",
+  "version": "1.0.0",
+  "description": "**Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tilisman/goit-js-hw-08-gallery.git"
+  },
+  "author": "Anthony Tilis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tilisman/goit-js-hw-08-gallery/issues"
+  },
+  "homepage": "https://github.com/Tilisman/goit-js-hw-08-gallery#readme",
+  "dependencies": {
+    "joi": "^17.4.0",
+    "uuid.v4": "^1.0.0"
+  }
+}
