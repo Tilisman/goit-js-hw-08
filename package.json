@@ -4,7 +4,9 @@
   "description": "**Читать на других языках: [Русский](README.md), [Українська](README.ua.md).**",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/Tilisman/goit-js-hw-08-gallery#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "joi": "^17.4.0",
     "uuid.v4": "^1.0.0"
   }
